@@ -1,0 +1,10 @@
+# server 1
+django==4.2.13
+django-cors-headers==4.3.1
+transformers==4.41.2
+pillow==10.3.0
+pytesseract==0.3.10
+gtts==2.5.1
+pygame==2.5.2
+
+# python -m venv env; env/scripts/activate; python manage.py -makemigrations; python manage.py migrate; python manage.py runserver; python main.py --load-only hi,en --update-models; 
